@@ -11,7 +11,7 @@ def pioneer
 end
 
 def id_hash_generator(interger)
-  {:id => "integer"}
+  {:id => 1}
 end
 
 
